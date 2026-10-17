@@ -1,0 +1,3 @@
+test,n_in_bay,n_out_bay,mean_in_bay_raw,mean_out_bay_raw,estimate_diff,t,df,p_value,note
+Welch_t_log1p_FineFraction,23,27,21.89865752921739,7.61806589097037,1.0751512956839402,3.4415322682169385,44.48917869070244,0.001269601770374641,Primary test (skewed response: log1p)
+Welch_t_raw_FineFraction,23,27,21.89865752921739,7.61806589097037,14.28059163824702,2.190107202741922,34.6299057267263,0.03534347344708815,Same contrast on raw Fine Fraction (supplementary)

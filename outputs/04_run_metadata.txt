@@ -1,0 +1,9 @@
+RUN: 2026-10-17 12:01:06 -10
+Input: Data/sediment_raw_data_snapshot.csv
+n: 50
+In-bay prefixes: C,O
+Welch t (log1p) p: 0.00127
+Fig3 model: outlet only (fig3_include_shore=FALSE)
+Fig3 adj R2: 0.4009
+Fig3 outlet p: 0.0007067
+Outputs: outputs/04_*
